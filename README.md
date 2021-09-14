@@ -8,3 +8,4 @@ Lessons:
 * Inheritance - Creating Subclasses
 * Special (Magic/ Dunder) Methods
 * Property Decorators - Getters, Setters, and Deleters
+**From Corey Schafer's Python OOP Tutorial series**
